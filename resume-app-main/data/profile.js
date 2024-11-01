@@ -143,5 +143,5 @@ const profileData = {
   certifications: [
     {
       desc: "<strong>Mobile Web Specialist Nanodegree</strong> by <strong>Udacity</strong>".
-    }
+    },
     ]
