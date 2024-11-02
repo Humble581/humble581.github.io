@@ -144,4 +144,6 @@ const profileData = {
     {
       desc: "<strong>Mobile Web Specialist Nanodegree</strong> by <strong>Udacity</strong>".
     },
-    ]
+    events: []
+};
+
